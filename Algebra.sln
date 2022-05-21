@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algebra", "Algebra\Algebra.csproj", "{43271F80-E95E-46C6-ADBA-329E653D442B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{4C8E1EBB-5776-4C1D-81C9-B30C683F9034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43271F80-E95E-46C6-ADBA-329E653D442B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43271F80-E95E-46C6-ADBA-329E653D442B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43271F80-E95E-46C6-ADBA-329E653D442B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43271F80-E95E-46C6-ADBA-329E653D442B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8E1EBB-5776-4C1D-81C9-B30C683F9034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8E1EBB-5776-4C1D-81C9-B30C683F9034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8E1EBB-5776-4C1D-81C9-B30C683F9034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8E1EBB-5776-4C1D-81C9-B30C683F9034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94E9C02-A78E-4B37-9223-7E29BB14EFE2}
+	EndGlobalSection
+EndGlobal

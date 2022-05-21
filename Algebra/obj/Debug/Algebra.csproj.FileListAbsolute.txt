@@ -1,0 +1,2 @@
+C:\Users\ediso\source\repos\Algebra\Algebra\obj\Debug\Algebra.csprojAssemblyReference.cache
+C:\Users\ediso\source\repos\Algebra\Algebra\obj\Debug\Algebra.csproj.CoreCompileInputs.cache
